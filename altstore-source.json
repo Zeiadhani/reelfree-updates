@@ -1,0 +1,79 @@
+{
+  "name": "ReelFree",
+  "identifier": "com.reelfree.source",
+  "subtitle": "Instagram without the Reels doom-scroll",
+  "iconURL": "https://raw.githubusercontent.com/Zeiadhani/reelfree-updates/main/icon.png",
+  "tintColor": "D62F8A",
+  "apps": [
+    {
+      "name": "ReelFree",
+      "bundleIdentifier": "com.reelfree.app",
+      "developerName": "Zeiadhani",
+      "subtitle": "Instagram without the Reels doom-scroll",
+      "localizedDescription": "Instagram's mobile site as a full-screen app, without the Reels doom-scroll: an hour of normal Instagram a day, then reels only one at a time, from a friend's DM or an account you open.",
+      "iconURL": "https://raw.githubusercontent.com/Zeiadhani/reelfree-updates/main/icon.png",
+      "tintColor": "D62F8A",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.8.3",
+          "buildVersion": "13",
+          "date": "2026-09-30T00:42:28Z",
+          "localizedDescription": "App 1.8.3 (13), rules script 1.10.1, built from 8fde0b6.",
+          "downloadURL": "https://raw.githubusercontent.com/Zeiadhani/reelfree-updates/main/ReelFree-1.8.3-13.ipa",
+          "size": 481096,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": [
+          {
+            "name": "Camera",
+            "usageDescription": "Take photos and videos to post or send on Instagram."
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "Record videos and voice messages on Instagram."
+          },
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "Save photos from Instagram."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "Choose photos and videos to post or send on Instagram."
+          }
+        ]
+      },
+      "permissions": [
+        {
+          "type": "camera",
+          "usageDescription": "Take photos and videos to post or send on Instagram."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "Record videos and voice messages on Instagram."
+        },
+        {
+          "type": "photos",
+          "usageDescription": "Choose photos and videos to post or send on Instagram."
+        },
+        {
+          "type": "background-fetch",
+          "usageDescription": "Checks for new direct messages to show as notifications."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Plays silence to stay running in the background and check for new messages."
+        }
+      ],
+      "version": "1.8.3",
+      "versionDate": "2026-09-30T00:42:28Z",
+      "versionDescription": "App 1.8.3 (13), rules script 1.10.1, built from 8fde0b6.",
+      "downloadURL": "https://raw.githubusercontent.com/Zeiadhani/reelfree-updates/main/ReelFree-1.8.3-13.ipa",
+      "size": 481096
+    }
+  ],
+  "news": []
+}
